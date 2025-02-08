@@ -7,7 +7,7 @@ Example of rails on docker-compose.
 # Usage
 ## とりあえずサーバー起動までの手順
 ```sh
-$ git close git@github.com:shigenius/rails8.git
+$ git clone git@github.com:shigenius/rails8.git
 $ cd rails8
 ```
 ### DB初期化
